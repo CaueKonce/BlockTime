@@ -4,3 +4,9 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Organizar Número de  Matérias 
+- `Funcionalidade 2`: Organizar Número de Salas
+- `Funcionalidade 2a`: Organizar Professores e Suas Competências 
+- `Funcionalidade 3`: Distribuir os Horários 
