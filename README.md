@@ -13,4 +13,5 @@
 - `Funcionalidade 3`: Distribuir os Horários 
 
 ## DESCRIÇÃO DO PROJETO:  
-### A PROPOSTA DE ORGANIZAÇÃO DOS HORARIOS É FUNDAMENTAL EM UM AMBIENTE ESCOLAR, PORTANTO, ALGUMAS DAS VEZES GERA MUITOS CONFLITOS ENTRE PROFESSORES E A GESTÃO,ENTÃO CRIAMOS UM SITE VIRTUAL PARA INFORMAR O  MÁXIMO DE PESSOAS POSSIVEl
+### A organização dos horários é fundamental em um ambiente escolar, portanto algumas das vezes gera muitos conflitos entre professores e a gestão, então criamos um site para informar o máximo de pessoas possíveis, e que com isso gere mais tranquilidade entre os demais. O primeiro dado recolhido será os professores, pois, deles saberemos quais matérias existem na casa e em quais eles atuam.
+
