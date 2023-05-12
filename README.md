@@ -5,7 +5,7 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-## :hammer: Funcionalidades do projeto
+## :hammer: FUNCIONALIDADES DO PROJETO:
 
 - `Funcionalidade 1`: Organizar Número de  Matérias 
 - `Funcionalidade 2`: Organizar Número de Salas
