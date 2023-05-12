@@ -15,3 +15,8 @@
 ### DESCRIÇÃO DO PROJETO:  
 ##### A organização dos horários é fundamental em um ambiente escolar, portanto algumas das vezes gera muitos conflitos entre professores e a gestão, então criamos um site para informar o máximo de pessoas possíveis, e que com isso gere mais tranquilidade entre os demais. O primeiro dado recolhido será os professores, pois, deles saberemos quais matérias existem na casa e em quais eles atuam.
 
+### AUTORES DO PROJETO
+##### ANDREZA SANTANA
+##### CAUÊ VALVERDE
+##### DAVI GUEDES
+##### FERNANDA MOURA
